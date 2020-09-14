@@ -1,30 +1,25 @@
-# Carolyn Stransky
+# Calvin Nguyen
 
-_Software developer (and sometimes still a journalist) based in Berlin, Germany_ <br>
+_Back-end Software Engineer (and Freelance writer) based in San Jose, CA, USA_ <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:calvin.nvqc@gmail.com) / [Website](https://calvinqc.com/) / [LinkedIn](https://www.linkedin.com/in/calvinqc/) / [GitHub](https://github.com/calvinqc/) / [Twitter](https://twitter.com/calvinqc_/) / [DEV](https://dev.to/calvinqc/) / [Medium](https://medium.com/@calvinqc/)
 
 ## 👩🏼‍💻 Technical Experience
 
-**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Present)_ <br>
-Creating a [Frequently Asked Questions (FAQ) resource](https://developers.google.com/season-of-docs/docs/participants/project-graphql-carolstran) for graphql.org
-<br><br>
+**Full-stack Engineering Intern** @ [IMI AI](https://imi.ai/) _(Sep 2019 - Aug 2020)_ <br>
+Early-stage startup focused on second opinion in health-care industry using AI.
+  - Worked in a cross-functional, agile team to build the [Dashboard](https://dashboard.imi.ai/) and redesigning [Landing page](https://imi.ai/)
+  - Launched new web dashboard in 2 months in Node/React (ES6).
+  - Updated REST APIs to support the mobile and front-end teams. 
+  - Developed Node.js clusters to handle 1000+ OCR tasks concurrently. 
+  - Built real-time messaging among services with Socket.io and Redis Pub/Sub.
+  - Reduced 45% cost of deploying front-end dashboard on Google Cloud. 
+  - Coded an upload feature in Go & Cloud Function to reduce traffic to the server. 
+  - **_Technologies used:_** Node.js, MongoDB, React, Redis, Firebase, Golang, gRPC, REST, SocketIO, mocha, Google Cloud, Docker/nginx.
 
-**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
-Early-stage startup focused on automated API testing and NLP.
-  - Building the [website](https://meeshkan.com/) and the [web app](https://app.meeshkan.com/) that visualizes the test reports
-  - Maintaining [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
-  - Ownership of [documentation](https://meeshkan.com/docs/) and the [blog](https://meeshkan.com/blog/)
-  - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
-  - **_Selected open-source work:_**
-    - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
-    - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
-    - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
-    <br><br>
-
-**Frontend Developer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
+**Software Engineering Intern** @ [PayPal](https://paypal.com) _(May 2019 - Aug 2019)_ <br>
 Professional chauffeur service available in over 300 cities worldwide.
-  - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
+
   - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
   - Extended and maintained a company-wide design system
   - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
@@ -33,7 +28,6 @@ Professional chauffeur service available in over 300 cities worldwide.
 **Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
 API-first infrastructure to create, manage and distribute content.
   - Ownership of [Contentful's technical blog](https://www.contentful.com/blog/)
-  - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
   - Assistance with information architecture and UX writing for the web app
   - **_Technologies used:_** React, Gatsby, Node.js, GraphQL, REST, Contentful.
   - **_Selected writing:_**
